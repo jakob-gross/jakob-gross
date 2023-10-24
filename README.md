@@ -6,6 +6,10 @@
 - have a look at my web documentary I shot, created and produced for the University of Heidelberg: [Elderscapes](https://www.uni-heidelberg.de/elderscapes)
 - collaboration is everything. Please reach out me
 
+`javascript = {
+  amazing
+}`
+
 ![javascript](./652581_code_command_develop_javascript_language_icon.png)
 ![CSS](./7422531_css3_css_file_development_icon.png)
 ![react](./8666372_react_icon.png)
