@@ -4,6 +4,7 @@
 - coming from documentary filmmaking and beeing a director of photography I want to pursue a career in the tech industries.
 - cultural anthropologist by studies
 - have a look at my web documentary I shot, created and produced for the University of Heidelberg: [Elderscapes](https://www.uni-heidelberg.de/elderscapes)
+- [or visit my other documentary Abdo](https://www.abdo-film.de)
 - collaboration is everything. Please reach out me
 
 `javascript = {
