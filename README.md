@@ -1,4 +1,5 @@
 ### Hi there, I am Jakob Groß 👋
+---
 - 🌱 I’m currently learning Javascript at Spiced Academy
 - coming from documentary filmmaking and beeing a director of photography I want to pursue a career in the tech industries.
 - cultural anthropologist by studies
