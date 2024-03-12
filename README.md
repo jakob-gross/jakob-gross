@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript at Spiced Academy
 - coming from documentary filmmaking and beeing a director of photography I want to pursue a career in the tech industries.
 - cultural anthropologist by studies
-- visit my documentary Abdo](https://www.abdo-film.de
+- visit my documentary Abdo https://www.abdo-film.de
 - collaboration is everything. Please reach out me
 
 `javascript = {
